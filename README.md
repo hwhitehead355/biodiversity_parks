@@ -1,4 +1,4 @@
-# Biodiversity in National Parks¶
+# Biodiversity in National Parks
 This project was completed as part of the Codecademy 'Data Science Foundations' course.<br>
 
 I explore data from the National Parks Service, and investigate whether there are any patterns or themes to the types of species that become endangered.<br>
